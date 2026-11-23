@@ -1,0 +1,1 @@
+{"description":"Fast drop-in replacement for makefun-site 1.0.0","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"site-generator-speed","type":"module","version":"1.0.0"}
